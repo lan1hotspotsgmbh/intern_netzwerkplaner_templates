@@ -1,0 +1,86 @@
+{
+  "format": 1,
+  "name": "LAN1 Gerätevorlagen",
+  "description": "Gerätevorlagen für den Netzplaner",
+  "maintainer": "LAN1 Hotspots GmbH",
+  "updated": "2026-08-17",
+  "templates": [
+    {
+      "id": "mikrotik-crs112-8p-4s",
+      "version": "1.0.0",
+      "description": "8× RJ45, 4× SFP",
+      "name": "MikroTik CRS112-8P-4S",
+      "url": "mikrotik-crs112-8p-4s.json"
+    },
+    {
+      "id": "mikrotik-crs317-1g-16s",
+      "version": "1.0.0",
+      "description": "1× RJ45, 16× SFP+",
+      "name": "MikroTik CRS317-1G-16S+",
+      "url": "mikrotik-crs317-1g-16s.json"
+    },
+    {
+      "id": "mikrotik-crs326-24g-2s",
+      "version": "1.0.0",
+      "description": "24× RJ45, 2× SFP+",
+      "name": "MikroTik CRS326-24G-2S+",
+      "url": "mikrotik-crs326-24g-2s.json"
+    },
+    {
+      "id": "mikrotik-crs328-24p-4s",
+      "version": "1.0.0",
+      "description": "24× RJ45, 4× SFP+",
+      "name": "MikroTik CRS328-24P-4S+",
+      "url": "mikrotik-crs328-24p-4s.json"
+    },
+    {
+      "id": "mikrotik-crs354-48g-4s-2q",
+      "version": "1.0.0",
+      "description": "48× RJ45, 4× SFP+, 2× QSFP",
+      "name": "MikroTik CRS354-48G-4S+2Q+",
+      "url": "mikrotik-crs354-48g-4s-2q.json"
+    },
+    {
+      "id": "mikrotik-hap-ac2-rbd52g-hacd2hnd",
+      "version": "1.0.0",
+      "description": "5× RJ45, 2× Funk",
+      "name": "MikroTik hAP ac2 (RBD52G-HacD2HnD)",
+      "url": "mikrotik-hap-ac2-rbd52g-hacd2hnd.json"
+    },
+    {
+      "id": "mikrotik-hex-rb750gr3",
+      "version": "1.0.0",
+      "description": "5× RJ45",
+      "name": "MikroTik hEX (RB750Gr3)",
+      "url": "mikrotik-hex-rb750gr3.json"
+    },
+    {
+      "id": "mikrotik-rb4011igs",
+      "version": "1.0.0",
+      "description": "10× RJ45, 1× SFP+",
+      "name": "MikroTik RB4011iGS++",
+      "url": "mikrotik-rb4011igs.json"
+    },
+    {
+      "id": "mikrotik-rb5009",
+      "version": "1.0.0",
+      "description": "8× RJ45, 1× SFP+",
+      "name": "MikroTik RB5009",
+      "url": "mikrotik-rb5009.json"
+    },
+    {
+      "id": "mikrotik-wap-60g-ap-rbwapg-60ad-a",
+      "version": "1.0.0",
+      "description": "1× RJ45, 1× Funk",
+      "name": "MikroTik wAP 60G AP (RBwAPG-60ad-A)",
+      "url": "mikrotik-wap-60g-ap-rbwapg-60ad-a.json"
+    },
+    {
+      "id": "mikrotik-wap-60g-rbwapg-60ad",
+      "version": "1.0.0",
+      "description": "1× RJ45, 1× Funk",
+      "name": "MikroTik wAP 60G (RBwAPG-60ad)",
+      "url": "mikrotik-wap-60g-rbwapg-60ad.json"
+    }
+  ]
+}
