@@ -1,0 +1,96 @@
+{
+  "name": "MikroTik CRS317-1G-16S+",
+  "vendor": "MikroTik",
+  "model": "CRS317-1G-16S+RM",
+  "type": "switch",
+  "kind": "active",
+  "icon": "switch",
+  "ports": [
+    {
+      "name": "ether1",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "sfp-plus1",
+      "type": "sfp_plus",
+      "speed": "10G"
+    },
+    {
+      "name": "sfp-plus2",
+      "type": "sfp_plus",
+      "speed": "10G"
+    },
+    {
+      "name": "sfp-plus3",
+      "type": "sfp_plus",
+      "speed": "10G"
+    },
+    {
+      "name": "sfp-plus4",
+      "type": "sfp_plus",
+      "speed": "10G"
+    },
+    {
+      "name": "sfp-plus5",
+      "type": "sfp_plus",
+      "speed": "10G"
+    },
+    {
+      "name": "sfp-plus6",
+      "type": "sfp_plus",
+      "speed": "10G"
+    },
+    {
+      "name": "sfp-plus7",
+      "type": "sfp_plus",
+      "speed": "10G"
+    },
+    {
+      "name": "sfp-plus8",
+      "type": "sfp_plus",
+      "speed": "10G"
+    },
+    {
+      "name": "sfp-plus9",
+      "type": "sfp_plus",
+      "speed": "10G"
+    },
+    {
+      "name": "sfp-plus10",
+      "type": "sfp_plus",
+      "speed": "10G"
+    },
+    {
+      "name": "sfp-plus11",
+      "type": "sfp_plus",
+      "speed": "10G"
+    },
+    {
+      "name": "sfp-plus12",
+      "type": "sfp_plus",
+      "speed": "10G"
+    },
+    {
+      "name": "sfp-plus13",
+      "type": "sfp_plus",
+      "speed": "10G"
+    },
+    {
+      "name": "sfp-plus14",
+      "type": "sfp_plus",
+      "speed": "10G"
+    },
+    {
+      "name": "sfp-plus15",
+      "type": "sfp_plus",
+      "speed": "10G"
+    },
+    {
+      "name": "sfp-plus16",
+      "type": "sfp_plus",
+      "speed": "10G"
+    }
+  ],
+  "builtin": true
+}

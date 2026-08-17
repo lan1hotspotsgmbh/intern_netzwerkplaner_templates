@@ -1,0 +1,169 @@
+{
+  "name": "MikroTik CRS326-24G-2S+",
+  "vendor": "MikroTik",
+  "model": "CRS326-24G-2S+RM",
+  "type": "switch",
+  "kind": "active",
+  "icon": "switch",
+  "height_he": 1,
+  "ports": [
+    {
+      "name": "ether1",
+      "type": "rj45",
+      "speed": "1G",
+      "side": "front"
+    },
+    {
+      "name": "ether2",
+      "type": "rj45",
+      "speed": "1G",
+      "side": "front"
+    },
+    {
+      "name": "ether3",
+      "type": "rj45",
+      "speed": "1G",
+      "side": "front"
+    },
+    {
+      "name": "ether4",
+      "type": "rj45",
+      "speed": "1G",
+      "side": "front"
+    },
+    {
+      "name": "ether5",
+      "type": "rj45",
+      "speed": "1G",
+      "side": "front"
+    },
+    {
+      "name": "ether6",
+      "type": "rj45",
+      "speed": "1G",
+      "side": "front"
+    },
+    {
+      "name": "ether7",
+      "type": "rj45",
+      "speed": "1G",
+      "side": "front"
+    },
+    {
+      "name": "ether8",
+      "type": "rj45",
+      "speed": "1G",
+      "side": "front"
+    },
+    {
+      "name": "ether9",
+      "type": "rj45",
+      "speed": "1G",
+      "side": "front"
+    },
+    {
+      "name": "ether10",
+      "type": "rj45",
+      "speed": "1G",
+      "side": "front"
+    },
+    {
+      "name": "ether11",
+      "type": "rj45",
+      "speed": "1G",
+      "side": "front"
+    },
+    {
+      "name": "ether12",
+      "type": "rj45",
+      "speed": "1G",
+      "side": "front"
+    },
+    {
+      "name": "ether13",
+      "type": "rj45",
+      "speed": "1G",
+      "side": "front"
+    },
+    {
+      "name": "ether14",
+      "type": "rj45",
+      "speed": "1G",
+      "side": "front"
+    },
+    {
+      "name": "ether15",
+      "type": "rj45",
+      "speed": "1G",
+      "side": "front"
+    },
+    {
+      "name": "ether16",
+      "type": "rj45",
+      "speed": "1G",
+      "side": "front"
+    },
+    {
+      "name": "ether17",
+      "type": "rj45",
+      "speed": "1G",
+      "side": "front"
+    },
+    {
+      "name": "ether18",
+      "type": "rj45",
+      "speed": "1G",
+      "side": "front"
+    },
+    {
+      "name": "ether19",
+      "type": "rj45",
+      "speed": "1G",
+      "side": "front"
+    },
+    {
+      "name": "ether20",
+      "type": "rj45",
+      "speed": "1G",
+      "side": "front"
+    },
+    {
+      "name": "ether21",
+      "type": "rj45",
+      "speed": "1G",
+      "side": "front"
+    },
+    {
+      "name": "ether22",
+      "type": "rj45",
+      "speed": "1G",
+      "side": "front"
+    },
+    {
+      "name": "ether23",
+      "type": "rj45",
+      "speed": "1G",
+      "side": "front"
+    },
+    {
+      "name": "ether24",
+      "type": "rj45",
+      "speed": "1G",
+      "side": "front"
+    },
+    {
+      "name": "sfp-plus1",
+      "type": "sfp_plus",
+      "speed": "10G",
+      "side": "front"
+    },
+    {
+      "name": "sfp-plus2",
+      "type": "sfp_plus",
+      "speed": "10G",
+      "side": "front"
+    }
+  ],
+  "port_links": [],
+  "builtin": true
+}

@@ -1,0 +1,281 @@
+{
+  "name": "MikroTik CRS354-48G-4S+2Q+",
+  "vendor": "MikroTik",
+  "model": "CRS354-48G-4S+2Q+",
+  "type": "switch",
+  "kind": "active",
+  "icon": "switch",
+  "ports": [
+    {
+      "name": "ether1",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether2",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether3",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether4",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether5",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether6",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether7",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether8",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether9",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether10",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether11",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether12",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether13",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether14",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether15",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether16",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether17",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether18",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether19",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether20",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether21",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether22",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether23",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether24",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether25",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether26",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether27",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether28",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether29",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether30",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether31",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether32",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether33",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether34",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether35",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether36",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether37",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether38",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether39",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether40",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether41",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether42",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether43",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether44",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether45",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether46",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether47",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether48",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "sfp-plus1",
+      "type": "sfp_plus",
+      "speed": "10G"
+    },
+    {
+      "name": "sfp-plus2",
+      "type": "sfp_plus",
+      "speed": "10G"
+    },
+    {
+      "name": "sfp-plus3",
+      "type": "sfp_plus",
+      "speed": "10G"
+    },
+    {
+      "name": "sfp-plus4",
+      "type": "sfp_plus",
+      "speed": "10G"
+    },
+    {
+      "name": "qsfpplus1",
+      "type": "qsfp",
+      "speed": "40G"
+    },
+    {
+      "name": "qsfpplus2",
+      "type": "qsfp",
+      "speed": "40G"
+    }
+  ],
+  "builtin": true
+}

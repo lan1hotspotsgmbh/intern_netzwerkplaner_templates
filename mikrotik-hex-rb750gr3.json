@@ -1,0 +1,36 @@
+{
+  "name": "MikroTik hEX (RB750Gr3)",
+  "vendor": "MikroTik",
+  "model": "RB750Gr3",
+  "type": "router",
+  "kind": "active",
+  "icon": "router",
+  "ports": [
+    {
+      "name": "ether1",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether2",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether3",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether4",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether5",
+      "type": "rj45",
+      "speed": "1G"
+    }
+  ],
+  "builtin": true
+}

@@ -1,0 +1,151 @@
+{
+  "name": "MikroTik CRS328-24P-4S+",
+  "vendor": "MikroTik",
+  "model": "CRS328-24P-4S+",
+  "type": "switch",
+  "kind": "active",
+  "icon": "switch",
+  "ports": [
+    {
+      "name": "ether1",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether2",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether3",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether4",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether5",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether6",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether7",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether8",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether9",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether10",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether11",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether12",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether13",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether14",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether15",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether16",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether17",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether18",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether19",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether20",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether21",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether22",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether23",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether24",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "sfp-plus1",
+      "type": "sfp_plus",
+      "speed": "10G"
+    },
+    {
+      "name": "sfp-plus2",
+      "type": "sfp_plus",
+      "speed": "10G"
+    },
+    {
+      "name": "sfp-plus3",
+      "type": "sfp_plus",
+      "speed": "10G"
+    },
+    {
+      "name": "sfp-plus4",
+      "type": "sfp_plus",
+      "speed": "10G"
+    }
+  ],
+  "builtin": true
+}

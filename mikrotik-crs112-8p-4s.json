@@ -1,0 +1,85 @@
+{
+  "name": "MikroTik CRS112-8P-4S",
+  "vendor": "MikroTik",
+  "model": "CRS112-8P-4S-IN",
+  "type": "switch",
+  "kind": "active",
+  "icon": "switch",
+  "height_he": 1,
+  "ports": [
+    {
+      "name": "ether1",
+      "type": "rj45",
+      "speed": "1G",
+      "side": "front"
+    },
+    {
+      "name": "ether2",
+      "type": "rj45",
+      "speed": "1G",
+      "side": "front"
+    },
+    {
+      "name": "ether3",
+      "type": "rj45",
+      "speed": "1G",
+      "side": "front"
+    },
+    {
+      "name": "ether4",
+      "type": "rj45",
+      "speed": "1G",
+      "side": "front"
+    },
+    {
+      "name": "ether5",
+      "type": "rj45",
+      "speed": "1G",
+      "side": "front"
+    },
+    {
+      "name": "ether6",
+      "type": "rj45",
+      "speed": "1G",
+      "side": "front"
+    },
+    {
+      "name": "ether7",
+      "type": "rj45",
+      "speed": "1G",
+      "side": "front"
+    },
+    {
+      "name": "ether8",
+      "type": "rj45",
+      "speed": "1G",
+      "side": "front"
+    },
+    {
+      "name": "sfp1",
+      "type": "sfp",
+      "speed": "1G",
+      "side": "front"
+    },
+    {
+      "name": "sfp2",
+      "type": "sfp",
+      "speed": "1G",
+      "side": "front"
+    },
+    {
+      "name": "sfp3",
+      "type": "sfp",
+      "speed": "1G",
+      "side": "front"
+    },
+    {
+      "name": "sfp4",
+      "type": "sfp",
+      "speed": "1G",
+      "side": "front"
+    }
+  ],
+  "port_links": [],
+  "builtin": true
+}

@@ -1,0 +1,25 @@
+{
+  "name": "MikroTik wAP 60G AP (RBwAPG-60ad-A)",
+  "vendor": "MikroTik",
+  "model": "RBwAPG-60ad-A",
+  "type": "ap",
+  "kind": "active",
+  "icon": "ap",
+  "height_he": 1,
+  "ports": [
+    {
+      "name": "ether1",
+      "type": "rj45",
+      "speed": "1G",
+      "side": "front"
+    },
+    {
+      "name": "wlan60-1 (60 GHz)",
+      "type": "antenna",
+      "speed": "",
+      "side": "front"
+    }
+  ],
+  "port_links": [],
+  "builtin": true
+}

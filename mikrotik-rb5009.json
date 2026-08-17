@@ -1,0 +1,56 @@
+{
+  "name": "MikroTik RB5009",
+  "vendor": "MikroTik",
+  "model": "RB5009",
+  "type": "router",
+  "kind": "active",
+  "icon": "router",
+  "ports": [
+    {
+      "name": "ether1",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether2",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether3",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether4",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether5",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether6",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether7",
+      "type": "rj45",
+      "speed": "1G"
+    },
+    {
+      "name": "ether8",
+      "type": "rj45",
+      "speed": "2.5G"
+    },
+    {
+      "name": "sfp-plus1",
+      "type": "sfp_plus",
+      "speed": "10G"
+    }
+  ],
+  "builtin": true
+}
